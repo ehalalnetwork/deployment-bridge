@@ -1,10 +1,10 @@
 ---
 ID: 1167
-post_title: Files
+post_title: Github Files 1
 author: ehalal
 post_excerpt: ""
 layout: page
-permalink: https://ehalal.io/files/
+permalink: https://ehalal.io/github-page-1/
 published: true
 post_date: 2018-08-14 12:57:17
 ---
