@@ -9,13 +9,11 @@ published: true
 post_date: 2018-08-14 12:57:17
 ---
 https://github.com/ehalalnetwork?tab=repositories
-https://github.com/ehalalnetwork/deployment-bridge
 https://github.com/ehalalnetwork/poa-netstats-agent
 https://github.com/ehalalnetwork/poa-dapps-keys-generation
 https://github.com/ehalalnetwork/poa-faucet
 https://github.com/ehalalnetwork/poa-network-monitor
 https://github.com/ehalalnetwork/poa-devops
-https://github.com/ehalalnetwork/poa-bridge
 https://github.com/ehalalnetwork/poa-popa
 https://github.com/ehalalnetwork/poa-chain-spec
 https://github.com/ehalalnetwork/parity-orchestrator
