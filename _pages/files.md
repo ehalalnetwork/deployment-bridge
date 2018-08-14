@@ -16,6 +16,4 @@ https://github.com/ehalalnetwork/poa-devops
 https://github.com/ehalalnetwork/poa-popa
 https://github.com/ehalalnetwork/poa-chain-spec
 https://github.com/ehalalnetwork/poa-governance-notifications
-https://github.com/ehalalnetwork/poa-scripts-validator
-https://github.com/ehalalnetwork/poa-scripts-moc
 https://github.com/ehalalnetwork/proofofphone
