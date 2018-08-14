@@ -13,3 +13,13 @@ https://github.com/ehalalnetwork?tab=repositories
 https://github.com/ehalalnetwork/deployment-bridge
 
 https://github.com/ehalalnetwork/poa-dapps-voting
+
+https://github.com/ehalalnetwork/token-wizard
+
+https://github.com/ehalalnetwork/poa-netstats-agent
+
+https://github.com/ehalalnetwork/eth-net-props
+
+https://github.com/ehalalnetwork/parity
+
+https://github.com/ehalalnetwork/deployment-playbooks
